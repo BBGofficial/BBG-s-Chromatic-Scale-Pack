@@ -8,3 +8,6 @@ Feel free to use, just credit me like this example
 "Link: https://github.com/BBGofficial/BBG-s-Chromatic-Scale-Pack"
 
 More chromatics will come in from time to time, so if you dont see a chromatic you want, its most likely that it will be added later
+
+
+Some of the characters belong to their original owners.
